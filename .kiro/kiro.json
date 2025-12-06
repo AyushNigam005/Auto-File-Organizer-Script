@@ -1,0 +1,6 @@
+{
+  "name": "Auto File Organizer",
+  "description": "A Python script that automatically organizes files in a folder by type and date. Built for Week 2 - Lazy Automation: 'I hate cleaning my Downloads folder, so I built this.'",
+  "language": "python",
+  "entrypoint": "organize.py"
+}
